@@ -1,0 +1,512 @@
+{
+    "breadcrumbs": [
+        {
+            "label": "Company Name",
+            "signal_field_name": "q_organization_name",
+            "value": "informa",
+            "display_name": "informa"
+        }
+    ],
+    "partial_results_only": false,
+    "has_join": false,
+    "disable_eu_prospecting": false,
+    "partial_results_limit": 10000,
+    "pagination": {
+        "page": 1,
+        "per_page": 10,
+        "total_entries": 4389,
+        "total_pages": 439
+    },
+    "accounts": [],
+    "organizations": [
+        {
+            "id": "54a127b969702d90a2d5e100",
+            "name": "Informa",
+            "website_url": "http://www.informa.com",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informa",
+            "twitter_url": "http://twitter.com/informaplc",
+            "facebook_url": "https://facebook.com/InformaPLC/",
+            "languages": [
+                "English"
+            ],
+            "alexa_ranking": 35904,
+            "phone": "+44 20 8052 0400",
+            "linkedin_uid": "164356",
+            "founded_year": 1998,
+            "publicly_traded_symbol": "INF.L",
+            "publicly_traded_exchange": "lse",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a67d39945d010001b51a86/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informa.com",
+            "sic_codes": [
+                "7389"
+            ],
+            "naics_codes": [
+                "519",
+                "513120",
+                "513130",
+                "561920",
+                "541910"
+            ],
+            "primary_phone": {
+                "number": "+44 20 8052 0400",
+                "sanitized_number": "+442080520400"
+            },
+            "sanitized_phone": "+442080520400",
+            "owned_by_organization_id": null,
+            "num_languages": 1,
+            "organization_revenue_printed": "5.4B",
+            "organization_revenue": 5427444000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.02222222222222222,
+            "organization_headcount_twelve_month_growth": 0.06308557151780138,
+            "organization_headcount_twenty_four_month_growth": 0.07044025157232704
+        },
+        {
+            "id": "54a128cf69702d8eeb789b01",
+            "name": "Informa Markets",
+            "website_url": "http://www.informamarkets.com",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informamarkets",
+            "twitter_url": "https://twitter.com/InformaEx",
+            "facebook_url": "https://facebook.com/InformaExhibitions",
+            "languages": [
+                "English"
+            ],
+            "alexa_ranking": 99505,
+            "phone": null,
+            "linkedin_uid": "2339560",
+            "founded_year": 2005,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/671342f967235600018814f7/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informamarkets.com",
+            "sic_codes": [
+                "7389"
+            ],
+            "naics_codes": [
+                "561920",
+                "519290"
+            ],
+            "owned_by_organization_id": "54a127b969702d90a2d5e100",
+            "owned_by_organization": {
+                "id": "54a127b969702d90a2d5e100",
+                "name": "Informa",
+                "website_url": "http://www.informa.com"
+            },
+            "num_languages": 1,
+            "owned_by_chain": [
+                "54a127b969702d90a2d5e100"
+            ],
+            "organization_revenue_printed": "2.6B",
+            "organization_revenue": 2638000000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.01809954751131222,
+            "organization_headcount_twelve_month_growth": 0.04705274043433299,
+            "organization_headcount_twenty_four_month_growth": 0.08
+        },
+        {
+            "id": "5e010cb7e98f5200983e493f",
+            "name": "Informa Connect",
+            "website_url": "http://www.informaconnect.com",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informa-connect",
+            "twitter_url": "http://twitter.com/informaplc",
+            "facebook_url": "https://facebook.com/InformaConnect/",
+            "languages": [],
+            "alexa_ranking": 74994,
+            "phone": "+44 56 1997 0112",
+            "linkedin_uid": "55055743",
+            "founded_year": 2019,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b39da2e8c9870001b23ce7/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informaconnect.com",
+            "sic_codes": [
+                "7389"
+            ],
+            "naics_codes": [
+                "519",
+                "561920",
+                "611430",
+                "513120"
+            ],
+            "primary_phone": {
+                "number": "+44 56 1997 0112",
+                "sanitized_number": "+445619970112"
+            },
+            "sanitized_phone": "+445619970112",
+            "owned_by_organization_id": "54a127b969702d90a2d5e100",
+            "owned_by_organization": {
+                "id": "54a127b969702d90a2d5e100",
+                "name": "Informa",
+                "website_url": "http://www.informa.com"
+            },
+            "num_languages": 0,
+            "owned_by_chain": [
+                "54a127b969702d90a2d5e100"
+            ],
+            "organization_revenue_printed": "860M",
+            "organization_revenue": 860000000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.03811659192825112,
+            "organization_headcount_twelve_month_growth": 0.1023809523809524,
+            "organization_headcount_twenty_four_month_growth": 0.2896935933147632
+        },
+        {
+            "id": "5f489cb83b088e000189fa30",
+            "name": "Informa Tech",
+            "website_url": "http://www.informatech.com",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informa-tech",
+            "twitter_url": "https://twitter.com/InformaTechHQ",
+            "facebook_url": "https://facebook.com/InformaTechHQ",
+            "languages": [],
+            "alexa_ranking": 164399,
+            "phone": null,
+            "linkedin_uid": "19183899",
+            "founded_year": 2019,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6821908b2e92ff00018973bc/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informatech.com",
+            "sic_codes": [
+                "7375"
+            ],
+            "naics_codes": [
+                "51929",
+                "561920",
+                "541910"
+            ],
+            "owned_by_organization_id": "54a127b969702d90a2d5e100",
+            "owned_by_organization": {
+                "id": "54a127b969702d90a2d5e100",
+                "name": "Informa",
+                "website_url": "http://www.informa.com"
+            },
+            "num_languages": 0,
+            "owned_by_chain": [
+                "54a127b969702d90a2d5e100"
+            ],
+            "organization_revenue_printed": "486.8M",
+            "organization_revenue": 486800000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.0,
+            "organization_headcount_twelve_month_growth": 0.0,
+            "organization_headcount_twenty_four_month_growth": -0.1785714285714286
+        },
+        {
+            "id": "54a1179369702d49262d0a00",
+            "name": "Informa TechTarget",
+            "website_url": "http://www.informatechtarget.com",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informatechtarget",
+            "twitter_url": "https://twitter.com/techtargetnews",
+            "facebook_url": "https://facebook.com/techtargetinc/",
+            "languages": [
+                "English",
+                "German",
+                "Spanish",
+                "French"
+            ],
+            "alexa_ranking": null,
+            "phone": "+1 617-431-9200",
+            "linkedin_uid": "166286",
+            "founded_year": 1999,
+            "publicly_traded_symbol": "TTGT",
+            "publicly_traded_exchange": "nasdaq",
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ae6bfff6866800015181f4/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informatechtarget.com",
+            "sic_codes": [
+                "7311",
+                "7375"
+            ],
+            "naics_codes": [
+                "541810",
+                "519290"
+            ],
+            "primary_phone": {
+                "number": "+1 617-431-9200",
+                "sanitized_number": "+16174319200"
+            },
+            "sanitized_phone": "+16174319200",
+            "market_cap": "324.6M",
+            "owned_by_organization_id": "54a127b969702d90a2d5e100",
+            "owned_by_organization": {
+                "id": "54a127b969702d90a2d5e100",
+                "name": "Informa",
+                "website_url": "http://www.informa.com"
+            },
+            "num_languages": 4,
+            "owned_by_chain": [
+                "54a127b969702d90a2d5e100"
+            ],
+            "organization_revenue_printed": "364.8M",
+            "organization_revenue": 364779000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.01524663677130045,
+            "organization_headcount_twelve_month_growth": -0.03082191780821918,
+            "organization_headcount_twenty_four_month_growth": 0.249448123620309
+        },
+        {
+            "id": "54a1353e69702d2f9fc2e900",
+            "name": "Informa Connect Middle East",
+            "website_url": null,
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informa-connect-middle-east",
+            "twitter_url": null,
+            "facebook_url": null,
+            "languages": [
+                "English",
+                "English"
+            ],
+            "alexa_ranking": null,
+            "phone": "+971 4 407 2500",
+            "linkedin_uid": "37452",
+            "founded_year": 1993,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/66e0c48253e87a000182ff91/picture",
+            "crunchbase_url": null,
+            "primary_domain": null,
+            "naics_codes": [
+                "611430",
+                "561920"
+            ],
+            "primary_phone": {
+                "number": "+971 4 407 2500",
+                "sanitized_number": "+97144072500"
+            },
+            "sanitized_phone": "+97144072500",
+            "owned_by_organization_id": null,
+            "num_languages": 1,
+            "organization_revenue_printed": "857M",
+            "organization_revenue": 857000000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": -0.007874015748031496,
+            "organization_headcount_twelve_month_growth": -0.015625,
+            "organization_headcount_twenty_four_month_growth": 0.0
+        },
+        {
+            "id": "556dee1c73696410b0d10700",
+            "name": "Informatica",
+            "website_url": "http://www.informatica.com",
+            "angellist_url": "http://angel.co/informatica",
+            "linkedin_url": "http://www.linkedin.com/company/informatica",
+            "twitter_url": "http://twitter.com/informaticacorp",
+            "facebook_url": "http://www.facebook.com/InformaticaCorporation",
+            "languages": [
+                "English",
+                "English",
+                "Spanish",
+                "Chinese",
+                "Japanese"
+            ],
+            "alexa_ranking": 37200,
+            "phone": "+1 650-385-5000",
+            "linkedin_uid": "3858",
+            "founded_year": 1993,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69b4e805d9d24f0001e494ad/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informatica.com",
+            "sic_codes": [
+                "7375",
+                "7372"
+            ],
+            "naics_codes": [
+                "54151",
+                "51321"
+            ],
+            "primary_phone": {
+                "number": "+1 650-385-5000",
+                "sanitized_number": "+16503855000"
+            },
+            "sanitized_phone": "+16503855000",
+            "market_cap": "7.6B",
+            "owned_by_organization_id": "5a9f506ea6da98d99781eff8",
+            "owned_by_organization": {
+                "id": "5a9f506ea6da98d99781eff8",
+                "name": "Salesforce",
+                "website_url": "http://www.salesforce.com"
+            },
+            "num_languages": 4,
+            "owned_by_chain": [
+                "5a9f506ea6da98d99781eff8"
+            ],
+            "organization_revenue_printed": "1.6B",
+            "organization_revenue": 1640000000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": -0.3864430468204053,
+            "organization_headcount_twelve_month_growth": -0.3959408324733402,
+            "organization_headcount_twenty_four_month_growth": -0.4010914051841746
+        },
+        {
+            "id": "6503d7db5cac87008b442616",
+            "name": "Informative Engineering",
+            "website_url": null,
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informative-engineering",
+            "twitter_url": null,
+            "facebook_url": null,
+            "languages": [],
+            "alexa_ranking": null,
+            "phone": null,
+            "linkedin_uid": "96904465",
+            "founded_year": null,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/682c00aacc8f4a0001f75f45/picture",
+            "crunchbase_url": null,
+            "primary_domain": null,
+            "owned_by_organization_id": null,
+            "num_languages": 0,
+            "organization_revenue_printed": null,
+            "organization_revenue": 0.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.0,
+            "organization_headcount_twelve_month_growth": 0.0,
+            "organization_headcount_twenty_four_month_growth": 0.0
+        },
+        {
+            "id": "54a13c0f69702dac84fdb901",
+            "name": "Information Technology Institute (ITI)",
+            "website_url": "http://www.iti.gov.eg",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/school/information-technology-institute-iti-",
+            "twitter_url": "https://twitter.com/itichannel2",
+            "facebook_url": "https://facebook.com/pages/iTi-Channel/133210566767751",
+            "languages": [
+                "English"
+            ],
+            "alexa_ranking": 64683,
+            "phone": "+20 2 35355637",
+            "linkedin_uid": "294614",
+            "founded_year": 1993,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69ad5d70ce92d800010269da/picture",
+            "crunchbase_url": null,
+            "primary_domain": "iti.gov.eg",
+            "sic_codes": [
+                "8299",
+                "8221"
+            ],
+            "naics_codes": [
+                "611420"
+            ],
+            "primary_phone": {
+                "number": "+20 2 35355637",
+                "sanitized_number": "+20235355637"
+            },
+            "sanitized_phone": "+20235355637",
+            "owned_by_organization_id": null,
+            "num_languages": 1,
+            "organization_revenue_printed": "421K",
+            "organization_revenue": 421000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": -0.004684684684684685,
+            "organization_headcount_twelve_month_growth": -0.03426573426573427,
+            "organization_headcount_twenty_four_month_growth": 0.3080748283210987
+        },
+        {
+            "id": "54a2637c7468693fda713d1f",
+            "name": "Informa Australia",
+            "website_url": "http://www.informa.com.au",
+            "angellist_url": null,
+            "linkedin_url": "http://www.linkedin.com/company/informaaustralia",
+            "twitter_url": null,
+            "facebook_url": null,
+            "languages": [
+                "English"
+            ],
+            "alexa_ranking": null,
+            "phone": "+61 2 9080 4300",
+            "linkedin_uid": "906837",
+            "founded_year": null,
+            "publicly_traded_symbol": null,
+            "publicly_traded_exchange": null,
+            "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6959740f1be10b00014aebd9/picture",
+            "crunchbase_url": null,
+            "primary_domain": "informa.com.au",
+            "sic_codes": [
+                "7389"
+            ],
+            "naics_codes": [
+                "561920",
+                "611430"
+            ],
+            "primary_phone": {
+                "number": "+61 2 9080 4300",
+                "sanitized_number": "+61290804300"
+            },
+            "sanitized_phone": "+61290804300",
+            "owned_by_organization_id": "54a127b969702d90a2d5e100",
+            "owned_by_organization": {
+                "id": "54a127b969702d90a2d5e100",
+                "name": "Informa",
+                "website_url": "http://www.informa.com"
+            },
+            "num_languages": 1,
+            "owned_by_chain": [
+                "54a127b969702d90a2d5e100"
+            ],
+            "organization_revenue_printed": "34.7M",
+            "organization_revenue": 34700000.0,
+            "intent_strength": null,
+            "show_intent": true,
+            "has_intent_signal_account": false,
+            "intent_signal_account": null,
+            "organization_headcount_six_month_growth": 0.04285714285714286,
+            "organization_headcount_twelve_month_growth": 0.05797101449275362,
+            "organization_headcount_twenty_four_month_growth": 0.05797101449275362
+        }
+    ],
+    "model_ids": [
+        "54a127b969702d90a2d5e100",
+        "54a128cf69702d8eeb789b01",
+        "5e010cb7e98f5200983e493f",
+        "5f489cb83b088e000189fa30",
+        "54a1179369702d49262d0a00",
+        "54a1353e69702d2f9fc2e900",
+        "556dee1c73696410b0d10700",
+        "6503d7db5cac87008b442616",
+        "54a13c0f69702dac84fdb901",
+        "54a2637c7468693fda713d1f"
+    ],
+    "num_fetch_result": null,
+    "derived_params": null
+}
